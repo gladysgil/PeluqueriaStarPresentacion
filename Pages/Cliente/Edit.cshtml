@@ -1,0 +1,85 @@
+@page
+@model PeluqueriaStar.Pages_Cliente.EditModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Cliente</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Cliente.Dirrecion" class="control-label"></label>
+                <input asp-for="Cliente.Dirrecion" class="form-control" />
+                <span asp-validation-for="Cliente.Dirrecion" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Cliente.Edad" class="control-label"></label>
+                <input asp-for="Cliente.Edad" class="form-control" />
+                <span asp-validation-for="Cliente.Edad" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Cliente.Genero" class="control-label"></label>
+                <select asp-for="Cliente.Genero" class="form-control"></select>
+                <span asp-validation-for="Cliente.Genero" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="Cliente.Membresia" /> @Html.DisplayNameFor(model => model.Cliente.Membresia)
+                </label>
+            </div>
+            <div class="form-group">
+                <label asp-for="Cliente.CantidadCitas" class="control-label"></label>
+                <input asp-for="Cliente.CantidadCitas" class="form-control" />
+                <span asp-validation-for="Cliente.CantidadCitas" class="text-danger"></span>
+            </div>
+            <input type="hidden" asp-for="Cliente.Id" />
+            <div class="form-group">
+                <label asp-for="Cliente.Nombre" class="control-label"></label>
+                <input asp-for="Cliente.Nombre" class="form-control" />
+                <span asp-validation-for="Cliente.Nombre" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Cliente.Apellidos" class="control-label"></label>
+                <input asp-for="Cliente.Apellidos" class="form-control" />
+                <span asp-validation-for="Cliente.Apellidos" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Cliente.Email" class="control-label"></label>
+                <input asp-for="Cliente.Email" class="form-control" />
+                <span asp-validation-for="Cliente.Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Cliente.Contrasena" class="control-label"></label>
+                <input asp-for="Cliente.Contrasena" class="form-control" />
+                <span asp-validation-for="Cliente.Contrasena" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="Cliente.EstadoSalud" /> @Html.DisplayNameFor(model => model.Cliente.EstadoSalud)
+                </label>
+            </div>
+            <div class="form-group">
+                <label asp-for="Cliente.Celular" class="control-label"></label>
+                <input asp-for="Cliente.Celular" class="form-control" />
+                <span asp-validation-for="Cliente.Celular" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="./Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

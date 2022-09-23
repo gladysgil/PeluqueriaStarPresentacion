@@ -1,0 +1,164 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PeluqueriaStar
+build_property.RootNamespace = PeluqueriaStar
+build_property.ProjectDir = C:\Users\USUARIO\Documents\MisionTic\MisionTic ciclo3\programacionCodigo\proyectosClase\PeluqueriaStar\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\USUARIO\Documents\MisionTic\MisionTic ciclo3\programacionCodigo\proyectosClase\PeluqueriaStar
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/USUARIO/Documents/MisionTic/MisionTic ciclo3/programacionCodigo/proyectosClase/PeluqueriaStar/Pages/Administrador/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5pc3RyYWRvclxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USUARIO/Documents/MisionTic/MisionTic ciclo3/programacionCodigo/proyectosClase/PeluqueriaStar/Pages/Administrador/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5pc3RyYWRvclxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USUARIO/Documents/MisionTic/MisionTic ciclo3/programacionCodigo/proyectosClase/PeluqueriaStar/Pages/Administrador/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5pc3RyYWRvclxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USUARIO/Documents/MisionTic/MisionTic ciclo3/programacionCodigo/proyectosClase/PeluqueriaStar/Pages/Administrador/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5pc3RyYWRvclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USUARIO/Documents/MisionTic/MisionTic ciclo3/programacionCodigo/proyectosClase/PeluqueriaStar/Pages/Administrador/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5pc3RyYWRvclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USUARIO/Documents/MisionTic/MisionTic ciclo3/programacionCodigo/proyectosClase/PeluqueriaStar/Pages/Cliente/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50ZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USUARIO/Documents/MisionTic/MisionTic ciclo3/programacionCodigo/proyectosClase/PeluqueriaStar/Pages/Cliente/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50ZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USUARIO/Documents/MisionTic/MisionTic ciclo3/programacionCodigo/proyectosClase/PeluqueriaStar/Pages/Cliente/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50ZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USUARIO/Documents/MisionTic/MisionTic ciclo3/programacionCodigo/proyectosClase/PeluqueriaStar/Pages/Cliente/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50ZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USUARIO/Documents/MisionTic/MisionTic ciclo3/programacionCodigo/proyectosClase/PeluqueriaStar/Pages/Cliente/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50ZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USUARIO/Documents/MisionTic/MisionTic ciclo3/programacionCodigo/proyectosClase/PeluqueriaStar/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USUARIO/Documents/MisionTic/MisionTic ciclo3/programacionCodigo/proyectosClase/PeluqueriaStar/Pages/Estelista/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXN0ZWxpc3RhXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USUARIO/Documents/MisionTic/MisionTic ciclo3/programacionCodigo/proyectosClase/PeluqueriaStar/Pages/Estelista/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXN0ZWxpc3RhXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USUARIO/Documents/MisionTic/MisionTic ciclo3/programacionCodigo/proyectosClase/PeluqueriaStar/Pages/Estelista/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXN0ZWxpc3RhXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USUARIO/Documents/MisionTic/MisionTic ciclo3/programacionCodigo/proyectosClase/PeluqueriaStar/Pages/Estelista/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXN0ZWxpc3RhXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USUARIO/Documents/MisionTic/MisionTic ciclo3/programacionCodigo/proyectosClase/PeluqueriaStar/Pages/Estelista/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXN0ZWxpc3RhXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USUARIO/Documents/MisionTic/MisionTic ciclo3/programacionCodigo/proyectosClase/PeluqueriaStar/Pages/HorarioEstelista/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9yYXJpb0VzdGVsaXN0YVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USUARIO/Documents/MisionTic/MisionTic ciclo3/programacionCodigo/proyectosClase/PeluqueriaStar/Pages/HorarioEstelista/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9yYXJpb0VzdGVsaXN0YVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USUARIO/Documents/MisionTic/MisionTic ciclo3/programacionCodigo/proyectosClase/PeluqueriaStar/Pages/HorarioEstelista/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9yYXJpb0VzdGVsaXN0YVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USUARIO/Documents/MisionTic/MisionTic ciclo3/programacionCodigo/proyectosClase/PeluqueriaStar/Pages/HorarioEstelista/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9yYXJpb0VzdGVsaXN0YVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USUARIO/Documents/MisionTic/MisionTic ciclo3/programacionCodigo/proyectosClase/PeluqueriaStar/Pages/HorarioEstelista/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9yYXJpb0VzdGVsaXN0YVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USUARIO/Documents/MisionTic/MisionTic ciclo3/programacionCodigo/proyectosClase/PeluqueriaStar/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USUARIO/Documents/MisionTic/MisionTic ciclo3/programacionCodigo/proyectosClase/PeluqueriaStar/Pages/Persona/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGVyc29uYVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USUARIO/Documents/MisionTic/MisionTic ciclo3/programacionCodigo/proyectosClase/PeluqueriaStar/Pages/Persona/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGVyc29uYVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USUARIO/Documents/MisionTic/MisionTic ciclo3/programacionCodigo/proyectosClase/PeluqueriaStar/Pages/Persona/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGVyc29uYVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USUARIO/Documents/MisionTic/MisionTic ciclo3/programacionCodigo/proyectosClase/PeluqueriaStar/Pages/Persona/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGVyc29uYVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USUARIO/Documents/MisionTic/MisionTic ciclo3/programacionCodigo/proyectosClase/PeluqueriaStar/Pages/Persona/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGVyc29uYVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USUARIO/Documents/MisionTic/MisionTic ciclo3/programacionCodigo/proyectosClase/PeluqueriaStar/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USUARIO/Documents/MisionTic/MisionTic ciclo3/programacionCodigo/proyectosClase/PeluqueriaStar/Pages/ServiciosOfrecer/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VydmljaW9zT2ZyZWNlclxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USUARIO/Documents/MisionTic/MisionTic ciclo3/programacionCodigo/proyectosClase/PeluqueriaStar/Pages/ServiciosOfrecer/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VydmljaW9zT2ZyZWNlclxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USUARIO/Documents/MisionTic/MisionTic ciclo3/programacionCodigo/proyectosClase/PeluqueriaStar/Pages/ServiciosOfrecer/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VydmljaW9zT2ZyZWNlclxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USUARIO/Documents/MisionTic/MisionTic ciclo3/programacionCodigo/proyectosClase/PeluqueriaStar/Pages/ServiciosOfrecer/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VydmljaW9zT2ZyZWNlclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USUARIO/Documents/MisionTic/MisionTic ciclo3/programacionCodigo/proyectosClase/PeluqueriaStar/Pages/ServiciosOfrecer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VydmljaW9zT2ZyZWNlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USUARIO/Documents/MisionTic/MisionTic ciclo3/programacionCodigo/proyectosClase/PeluqueriaStar/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USUARIO/Documents/MisionTic/MisionTic ciclo3/programacionCodigo/proyectosClase/PeluqueriaStar/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USUARIO/Documents/MisionTic/MisionTic ciclo3/programacionCodigo/proyectosClase/PeluqueriaStar/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USUARIO/Documents/MisionTic/MisionTic ciclo3/programacionCodigo/proyectosClase/PeluqueriaStar/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-xi9pykur8w

@@ -1,0 +1,64 @@
+@page
+@model PeluqueriaStar.Pages_Estelista.CreateModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Estelista</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Estelista.TarjetaProfesional" class="control-label"></label>
+                <input asp-for="Estelista.TarjetaProfesional" class="form-control" />
+                <span asp-validation-for="Estelista.TarjetaProfesional" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Estelista.Nombre" class="control-label"></label>
+                <input asp-for="Estelista.Nombre" class="form-control" />
+                <span asp-validation-for="Estelista.Nombre" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Estelista.Apellidos" class="control-label"></label>
+                <input asp-for="Estelista.Apellidos" class="form-control" />
+                <span asp-validation-for="Estelista.Apellidos" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Estelista.Email" class="control-label"></label>
+                <input asp-for="Estelista.Email" class="form-control" />
+                <span asp-validation-for="Estelista.Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Estelista.Contrasena" class="control-label"></label>
+                <input asp-for="Estelista.Contrasena" class="form-control" />
+                <span asp-validation-for="Estelista.Contrasena" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="Estelista.EstadoSalud" /> @Html.DisplayNameFor(model => model.Estelista.EstadoSalud)
+                </label>
+            </div>
+            <div class="form-group">
+                <label asp-for="Estelista.Celular" class="control-label"></label>
+                <input asp-for="Estelista.Celular" class="form-control" />
+                <span asp-validation-for="Estelista.Celular" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
